@@ -1,8 +1,6 @@
 numpy
 flask
-sklearn
 gunicorn
-pandas
 tensorflow==2.10.0
 werkzeug
 keras
