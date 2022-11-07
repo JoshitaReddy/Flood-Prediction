@@ -1,6 +1,0 @@
-numpy
-flask
-gunicorn
-tensorflow==2.10.0
-werkzeug
-keras
