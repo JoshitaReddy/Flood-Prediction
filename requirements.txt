@@ -1,0 +1,6 @@
+Flask 
+gunicorn 
+numpy 
+tenosrflow==2.10.0 
+werkzeug 
+keras
